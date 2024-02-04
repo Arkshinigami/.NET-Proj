@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\Weather app\Weather application\Weather application\obj\Debug\Weather application.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Weather app\Weather application\Weather application\obj\Debug\Weather application.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\source\repos\Weather app\Weather application\Weather application\obj\Debug\Weather_application.Form1.resources
+C:\Users\Dell\source\repos\Weather app\Weather application\Weather application\obj\Debug\Weather_application.Properties.Resources.resources
+C:\Users\Dell\source\repos\Weather app\Weather application\Weather application\obj\Debug\Weather application.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\Weather app\Weather application\Weather application\obj\Debug\Weather application.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Weather app\Weather application\Weather application\bin\Debug\Weather application.exe.config
+C:\Users\Dell\source\repos\Weather app\Weather application\Weather application\bin\Debug\Weather application.exe
+C:\Users\Dell\source\repos\Weather app\Weather application\Weather application\bin\Debug\Weather application.pdb
+C:\Users\Dell\source\repos\Weather app\Weather application\Weather application\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dell\source\repos\Weather app\Weather application\Weather application\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dell\source\repos\Weather app\Weather application\Weather application\obj\Debug\Weather application.csproj.CopyComplete
+C:\Users\Dell\source\repos\Weather app\Weather application\Weather application\obj\Debug\Weather application.exe
+C:\Users\Dell\source\repos\Weather app\Weather application\Weather application\obj\Debug\Weather application.pdb
